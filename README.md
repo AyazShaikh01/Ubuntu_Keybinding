@@ -407,26 +407,7 @@ ubuntu-keyboard-layer/
 - Custom commands must be installed and available on your system.
 - Workspace shortcuts depend on the requested workspace being available.
 - Preview your changes before applying a significantly modified configuration.
-
-## Contributing
-
-Contributions, bug reports, and suggestions are welcome.
-
-To contribute:
-
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Make and test your changes.
-4. Submit a pull request.
-
-Suggestions for new actions, improved shortcut handling, and a better configuration format are also welcome.
-
-## License
-
-Choose and add a license before publishing this project publicly.
-
-The MIT License is one option if you want others to use, modify, and distribute the project with few restrictions. Do not describe the project as MIT-licensed unless you have added the appropriate license file.
-
+- 
 ---
 
 Built to make Ubuntu keyboard customisation simple, flexible, and reversible.
